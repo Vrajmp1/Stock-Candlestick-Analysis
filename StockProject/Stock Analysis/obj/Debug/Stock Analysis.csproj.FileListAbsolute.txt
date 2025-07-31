@@ -1,0 +1,22 @@
+C:\Users\patel\Desktop\Stock Project\Stock Analysis\bin\Debug\COP 4365 Project 2.exe.config
+C:\Users\patel\Desktop\Stock Project\Stock Analysis\bin\Debug\COP 4365 Project 2.exe
+C:\Users\patel\Desktop\Stock Project\Stock Analysis\bin\Debug\COP 4365 Project 2.pdb
+C:\Users\patel\Desktop\Stock Project\Stock Analysis\obj\Debug\Stock Analysis.csproj.AssemblyReference.cache
+C:\Users\patel\Desktop\Stock Project\Stock Analysis\obj\Debug\Stock_Analysis.Form_stockLoader.resources
+C:\Users\patel\Desktop\Stock Project\Stock Analysis\obj\Debug\Stock_Analysis.Form_displayStock.resources
+C:\Users\patel\Desktop\Stock Project\Stock Analysis\obj\Debug\COP_4365_Project_2.Properties.Resources.resources
+C:\Users\patel\Desktop\Stock Project\Stock Analysis\obj\Debug\Stock Analysis.csproj.GenerateResource.cache
+C:\Users\patel\Desktop\Stock Project\Stock Analysis\obj\Debug\Stock Analysis.csproj.CoreCompileInputs.cache
+C:\Users\patel\Desktop\Stock Project\Stock Analysis\obj\Debug\COP 4365 Project 2.exe
+C:\Users\patel\Desktop\Stock Project\Stock Analysis\obj\Debug\COP 4365 Project 2.pdb
+C:\Users\patel\Desktop\StockProject\Stock Analysis\bin\Debug\COP 4365 Project 2.exe.config
+C:\Users\patel\Desktop\StockProject\Stock Analysis\bin\Debug\COP 4365 Project 2.exe
+C:\Users\patel\Desktop\StockProject\Stock Analysis\bin\Debug\COP 4365 Project 2.pdb
+C:\Users\patel\Desktop\StockProject\Stock Analysis\obj\Debug\Stock Analysis.csproj.AssemblyReference.cache
+C:\Users\patel\Desktop\StockProject\Stock Analysis\obj\Debug\Stock_Analysis.Form_stockLoader.resources
+C:\Users\patel\Desktop\StockProject\Stock Analysis\obj\Debug\Stock_Analysis.Form_displayStock.resources
+C:\Users\patel\Desktop\StockProject\Stock Analysis\obj\Debug\COP_4365_Project_2.Properties.Resources.resources
+C:\Users\patel\Desktop\StockProject\Stock Analysis\obj\Debug\Stock Analysis.csproj.GenerateResource.cache
+C:\Users\patel\Desktop\StockProject\Stock Analysis\obj\Debug\Stock Analysis.csproj.CoreCompileInputs.cache
+C:\Users\patel\Desktop\StockProject\Stock Analysis\obj\Debug\COP 4365 Project 2.exe
+C:\Users\patel\Desktop\StockProject\Stock Analysis\obj\Debug\COP 4365 Project 2.pdb

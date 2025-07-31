@@ -1,0 +1,11 @@
+C:\Users\patel\Downloads\COP 4365 Project 2\bin\Debug\COP 4365 Project 2.exe.config
+C:\Users\patel\Downloads\COP 4365 Project 2\bin\Debug\COP 4365 Project 2.exe
+C:\Users\patel\Downloads\COP 4365 Project 2\bin\Debug\COP 4365 Project 2.pdb
+C:\Users\patel\Downloads\COP 4365 Project 2\obj\Debug\COP 4365 Project 2.csproj.AssemblyReference.cache
+C:\Users\patel\Downloads\COP 4365 Project 2\obj\Debug\COP_4365_Project_2.Form_stockLoader.resources
+C:\Users\patel\Downloads\COP 4365 Project 2\obj\Debug\COP_4365_Project_2.Form_displayStock.resources
+C:\Users\patel\Downloads\COP 4365 Project 2\obj\Debug\COP_4365_Project_2.Properties.Resources.resources
+C:\Users\patel\Downloads\COP 4365 Project 2\obj\Debug\COP 4365 Project 2.csproj.GenerateResource.cache
+C:\Users\patel\Downloads\COP 4365 Project 2\obj\Debug\COP 4365 Project 2.csproj.CoreCompileInputs.cache
+C:\Users\patel\Downloads\COP 4365 Project 2\obj\Debug\COP 4365 Project 2.exe
+C:\Users\patel\Downloads\COP 4365 Project 2\obj\Debug\COP 4365 Project 2.pdb
