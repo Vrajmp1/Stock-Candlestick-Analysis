@@ -13,6 +13,7 @@ Designed for traders and students of technical analysis, this tool allows users 
 
 # Technologies Used
 • C# (.NET Framework)<br>
+• Microsoft Visual Studio<br>
 • Python (for Yahoo Finance API integration)<br>
 • CSV data parsing and in-memory object modeling<br>
 
