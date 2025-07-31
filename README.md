@@ -38,8 +38,3 @@ Initial Loading Screen:<br>
 
 Amazon Daily Candlestick Data:<br>
 <img width="1366" height="727" alt="image" src="https://github.com/user-attachments/assets/ba6f4afa-dd8e-4370-9b09-88ddc33965bb" />
-
-
-A “What I learned” or “Future Improvements” section
-
-Ready for the next project whenever you are.
