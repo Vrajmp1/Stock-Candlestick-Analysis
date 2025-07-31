@@ -6,7 +6,7 @@ Designed for traders and students of technical analysis, this tool allows users 
 # Features
 • Load daily, weekly, or monthly candlestick data from CSV files
 • Visual, interactive chart display with zoomable date ranges
-• Highlight individual candlesticks and common technical patterns
+• Highlight individual candlesticks and common technical patterns (Dragonfly Doji, Marubozu, Head and Shoulders, ABCD, Double Top/Bottom, etc.)
 • Download historical stock data directly from Yahoo Finance via integrated Python backend
 • Smooth and intuitive .NET GUI
 • Starter csv files provided in stock data directory
@@ -18,7 +18,8 @@ Designed for traders and students of technical analysis, this tool allows users 
 
 # How to Run
 • Download the StockProject directory with all contents
-• Double click the executable located at "C:\Users\patel\Desktop\StockProject\Stock Analysis\bin\Debug\COP 4365 Project 2.exe"
+• Double click the executable located at "StockProject\Stock Analysis\bin\Debug\COP 4365 Project 2.exe"
+• Make sure python is an environmental variable and yfinance library has been installed with pip
 
 From the startup screen:
 • Load a compatible CSV file with candlestick data or
