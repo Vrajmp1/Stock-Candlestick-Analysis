@@ -17,8 +17,8 @@ Designed for traders and students of technical analysis, this tool allows users 
 • CSV data parsing and in-memory object modeling
 
 # How to Run
-• Open the solution file in Microsoft Visual Studio
-Build and run the project (ensure Python and required packages are installed if using the data downloader)
+• Download the StockProject directory with all contents
+• Double click the executable located at "C:\Users\patel\Desktop\StockProject\Stock Analysis\bin\Debug\COP 4365 Project 2.exe"
 
 From the startup screen:
 • Load a compatible CSV file with candlestick data or
