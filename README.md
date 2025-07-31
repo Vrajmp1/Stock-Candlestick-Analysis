@@ -32,11 +32,11 @@ Note: The Python script must be properly linked and accessible by the C# applica
 Created to explore real-world applications of stock market data visualization and technical pattern detection. Emphasis was placed on a smooth user experience, efficient data modeling, and integrating multiple languages (C# and Python) for a full-stack desktop tool.
 
 # Example Screenshots
-Initial Loading Screen:\n
+Initial Loading Screen:<br>
 <img width="459" height="290" alt="image" src="https://github.com/user-attachments/assets/0395b22d-5ee5-4b24-98dd-4f362dc3a8d2" />
 
 
-Amazon Daily Candlestick Data:\n
+Amazon Daily Candlestick Data:<br>
 <img width="1366" height="727" alt="image" src="https://github.com/user-attachments/assets/ba6f4afa-dd8e-4370-9b09-88ddc33965bb" />
 
 
