@@ -20,7 +20,7 @@ Designed for traders and students of technical analysis, this tool allows users 
 # How to Run
 • Download the StockProject directory with all contents<br>
 • Double click the executable located at "StockProject\Stock Analysis\bin\Debug\COP 4365 Project 2.exe"<br>
-• Make sure python is an environmental variable and yfinance library has been installed with pip<br>
+• Make sure python is an environmental variable and yfinance and pandas libraries have been installed<br>
 
 From the startup screen:<br>
 • Load a compatible CSV file with candlestick data or<br>
